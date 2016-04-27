@@ -14,3 +14,7 @@ How to Run:
 	to compile it, and the command line
 	./executable NBAChamps.txt
 	to run it.
+Open Issues/Bugs
+    The program does not have any bugs when it runs on my computer. I experienced some problems
+    while writing the code when I tried to add some later functions and some if statements in
+    my main file, where when I ran the code through terminal it would oddly give a seg fault.
